@@ -1,7 +1,7 @@
 #include <signal.h>
 #include "shell.h"
-#include "Lista.h"
-#include "desenhos.h"
+#include "linked_list.h"
+#include "cartoons.h"
 
 int main() {
 

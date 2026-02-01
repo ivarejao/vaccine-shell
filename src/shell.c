@@ -11,8 +11,8 @@
 
 #include "sinais.h"
 #include "shell.h"
-#include "Corzinha.h"
-#include "Lista.h"
+#include "color.h"
+#include "linked_list.h"
 
 #define ARG_MAX 3
 

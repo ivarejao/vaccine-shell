@@ -3,3 +3,5 @@ make:
 	gcc src/*.c -o main
 run:
 	./main
+clean:
+	rm -f main

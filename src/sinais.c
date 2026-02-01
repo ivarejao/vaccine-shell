@@ -8,7 +8,7 @@
 #include <string.h>
 #include <sys/wait.h>
 
-#include "desenhos.h"
+#include "cartoons.h"
 #include "sinais.h"
 #include "shell.h"
 

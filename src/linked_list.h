@@ -2,8 +2,8 @@
 // Created by fernando on 26/04/2021.
 //
 
-#ifndef T1_SO_LISTA_H
-#define T1_SO_LISTA_H
+#ifndef VACCINE_SHELL_LINKED_LIST_H
+#define VACCINE_SHELL_LINKED_LIST_H
 
 typedef struct lista Lista;
 
@@ -13,4 +13,4 @@ void liberaLista(Lista* list);
 void armageddon(Lista* list, int pid);
 void insereLista(Lista* list, int gid);
 
-#endif //T1_SO_LISTA_H
+#endif //VACCINE_SHELL_LINKED_LIST_H

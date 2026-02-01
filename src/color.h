@@ -1,9 +1,9 @@
 // Created by igor on 05/04/2021
-// in TRABED2___2020_2_CORZINHA_H as Corzinha.h 
+// in TRABED2___2020_2_CORZINHA_H as color.h 
 //
 
-#ifndef TRABED2___2020_2_CORZINHA_H
-#define TRABED2___2020_2_CORZINHA_H
+#ifndef VACCINE_SHELL_COLOR_H
+#define VACCINE_SHELL_COLOR_H
 
 // Site base:
 // https://dev.to/ifenna__/adding-colors-to-bash-scripts-48g4
@@ -33,4 +33,4 @@
  * printf( NORMAL RED ... RESET);
  */
 
-#endif //TRABED2___2020_2_CORZINHA_H
+#endif //VACCINE_SHELL_COLOR_H

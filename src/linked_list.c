@@ -2,8 +2,8 @@
 // Created by fernando on 26/04/2021.
 //
 
-#include "Lista.h"
-#include "Corzinha.h"
+#include "linked_list.h"
+#include "color.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <signal.h>
@@ -87,4 +87,3 @@ void liberaLista(Lista * lis){
     }
     free(lis);
 }
-

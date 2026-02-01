@@ -5,7 +5,7 @@
 #ifndef T1_SO_SHELL_H
 #define T1_SO_SHELL_H
 
-#include "Lista.h"
+#include "linked_list.h"
 
 void printLineCommand();
 void run_shell(Lista *, struct sigaction*);
