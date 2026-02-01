@@ -1,5 +1,5 @@
 # Vaccine Shell (VSH)
-A custom shell interpreter implementation with signal handling and process management, featuring Zeca—a famous alligator character from Woody Woodpecker cartoons!
+A custom shell interpreter implementation with signal handling and process management, featuring Zeca, a famous alligator character from Woody Woodpecker cartoons!
 
 ###### Operating Systems Assignment | Federal University of Espírito Santo
 
@@ -12,7 +12,7 @@ A custom shell interpreter implementation with signal handling and process manag
 - Igor Mattos dos Santos Varejão
 - Luís Eduardo Freire da Câmara
 
-**Date:** May 2021 | 4th Term (2020/2)
+**Date:** May 2021 (2020/2)
 
 ---
 
