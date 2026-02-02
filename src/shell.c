@@ -91,7 +91,7 @@ void foreground(tCommand cmd[5], Lista* list, struct sigaction* act){
 
         // Filho executa o comando.
         if(execvp(cmd[0].command, cmd[0].args) == -1){
-            printf("Da um comando válido robertinha\n");
+            printf("Please give a valid command");
             exit(0);
         }
     }
@@ -170,7 +170,7 @@ void background(tCommand cmd[5], int qtdCmds, Lista* list){
 
                 // Executa o comando.
                 if(execvp(cmd[j].command, cmd[j].args) == -1) {
-                    printf("Da um comando válido robertinha\n");
+                    printf("Please give a valid command");
                     exit(0);
                 }
             } else {
