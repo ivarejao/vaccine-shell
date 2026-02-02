@@ -43,11 +43,15 @@ The project cleverly uses a vaccination metaphor to explain signal handling beha
 Below are visual examples of the shell in action:
 
 ### Final Implementation
-[](images/normal_example.png)
+![](./images/normal_example.png)
+
+
 Shows the complete shell interface with multiple processes and job control.
 
 ### Signal Reception Example
-[](images/signal_receiver.png)
+![](./images/signal_receiver.png)
+
+
 Demonstrates the behavior when the shell receives SIGUSR1 or SIGUSR2, when the iconic alligator character is displayed.
 
 ## Notes
